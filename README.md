@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I am Mr Sam Law.
+
+## I tread the line between the creative and the technical.
+
+I am a Full Stack Developer from Sydney and a jack of many trades with a diverse background in customer service, logistics, finance & administration.
+
+You can find me on
+[![LinkedIn][1]][linkedinlink]
 
 <!--
 **MrSamLaw/MrSamLaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<!-- Icons -->
+
+[1]: https://img.icons8.com/color/16/000000/linkedin-2--v1.png "LinkedIn"
+
+<!-- Links -->
+
+[linkedinlink]: https://www.linkedin.com/in/mrsamlaw/
