@@ -7,6 +7,8 @@ I am a Full Stack Developer from Sydney and a jack of many trades with a diverse
 You can find me on
 [![LinkedIn][1]][linkedinlink]
 
+or email me: sam@chongland.com
+
 <!--
 **MrSamLaw/MrSamLaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
